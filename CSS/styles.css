@@ -1,0 +1,16 @@
+h1{
+  color: blue;
+}
+
+h2{
+  color:blue;
+}
+hr{
+  border-color: purple;
+ border-width: 5px;
+ border-style: dotted none none;
+ width: 5%
+}
+body {
+  background-color: lightblue;
+}
